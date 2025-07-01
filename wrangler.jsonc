@@ -12,6 +12,13 @@
 	"observability": {
 		"enabled": true
 	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "daily-muslim",
+			"database_id": "34110bf8-5de1-48f3-b41e-82d3c4587716"
+		}
+	],
 	/**
 	 * Smart Placement
 	 * Docs: https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement
